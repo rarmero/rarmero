@@ -3,12 +3,9 @@ title: "Experience"
 ---
 
 
-[Instructions docker quarto](https://www.r-bloggers.com/2022/07/how-to-set-up-quarto-with-docker-part-1-static-content/){.external} 
-
-
 :::{.callout-note  collapse="false" }
 
-## Spin	10/2018 - 04/2022
+# Spin	10/2018 - 04/2022
 
 - Developing software on industrial sector, mainly carbon and pharma.
 - Legacy and new software.
@@ -26,7 +23,7 @@ title: "Experience"
 
 :::{.callout-note  collapse="false" }
 
-## Altran	03/2017- 10/2018
+# Altran	03/2017- 10/2018
 
 - Soporte, explotación y mantenimientos, en sector bancario.
 - SEPA, Bolsa, CRM, operativa bancaria diaria.
@@ -39,7 +36,7 @@ title: "Experience"
 
 :::{.callout-note  collapse="false" }
 
-## Semi telecontrol	02/2016-02/2017
+# Semi telecontrol	02/2016-02/2017
 
 - Desarrollo de evolutivos, mantenimientos, cambio de arquitectura, reingeniería, migraciones, ... de diversas aplicaciones de telecontrol dentro del sector eléctrico, en especial scada.
 - Aplicaciones en tiempo real. Uso de librerías gráficas, en especial gdi/gdi+
@@ -51,20 +48,29 @@ title: "Experience"
 :::{.callout-note  collapse="false" }
 
 
-### ESMA-DATA	05/2015-12/2015
+# ESMA-DATA	05/2015-12/2015
 
 Gestión, soporte y desarrollo de una plataforma de integración de comercio electrónico.
--Desarrollo de herramientas internas para la gestión del soporte.
--Mantenimiento y evolutivos del software de la plataforma, compuesta de : Aplicación web, aplicación servicio de windows, webservices y servidor Biztalk.
--Soporte de incidencias Nivel2.
+
+- Desarrollo de herramientas internas para la gestión del soporte.
+- Mantenimiento y evolutivos del software de la plataforma, compuesta de : 
+    - Aplicación web
+    - aplicación servicio de windows
+    - webservices
+    - servidor Biztalk.
+
+- Soporte de incidencias Nivel2.
 En inglés, por escrito, al dar soporte a multinacionales con IT en otros paises.
--Instalación y configuración.
--Consultoría sobre la integración:
+
+- Instalación y configuración.
+- Consultoría sobre la integración:
 ERP cliente - Platforma de integración - ERP destino.
 Formatos de intercambio: EDIFACT,IDOC, XML,PLANO,...
--Capacidades comunicativas: clientes y proveedores externos.
+- Capacidades comunicativas: clientes y proveedores externos.
+
 Personas a cargo: 2.
 Una persona totalmente a cargo dándole las instrucciones concretas de trabajo y otra persona dándole orientación y soporte cuando fuera necesario.
+
 Tecnologías : C#, SQL Server, .Net . Aplicaciones web, escritorio, consola y webservices.
 Metodologías: Patrones de diseño, OOP.
 Unit Test, SourceSafe.
@@ -73,4 +79,59 @@ Unit Test, SourceSafe.
 
 :::{.callout-note  collapse="false" }
 
+# LinialSoft	7/7/03 al 7/6/04
+Programando en Visual C++ con MFC para el sector del mueble e interiorismo, unido a un producto comercial que se llama Quickmobel, del cual daba soporte a los usuarios y cursos de formación sobre su funcionamiento. 
 :::
+
+:::{.callout-note  collapse="false" }
+
+# Gematic S.A. 	9/7/01-15/7/02
+Como programador, con PowerBuilder, realizando aplicaciones de gestión comercial, contable e industrial.
+:::
+
+:::{.callout-note  collapse="false" }
+
+# OACE Servicios Informáticos SL.	05- 2001
+Trabajando para un Banco de Andorra, Credito Andorrano, como programador en Natural/Adabas, para la adecuación del euro de sus aplicativos.
+:::
+
+:::{.callout-note  collapse="false" }
+
+# Programador Internet en Bvirtual. 	11/00 - 3/01
+
+- Target1(site que gestione totalmente solo)
+- Fontvella, Lanjarón, 
+- Vet24(tienda-online), Kutxa(hipoteca online)
+
+Tecnología: asp / sql server.
+:::
+
+:::{.callout-note  collapse="false" }
+
+# Software AG como programador junior.	1/00 - 9/00
+
+ Realicé una migración de los aplicativos de Comercial Union de plataforma Host a Unix; he colaborado en la adecuación del año 2000 de los aplicativos de la universidad Rovira Virgili y colaboré, por último, en la adecuación del euro de un aplicativo del Gobierno de Cantabria.
+ Además estuve programando con Bolero/Tamino, realizando servlets en dicho lenguaje e incluso algo con java.
+
+:::
+
+
+:::{.callout-note  collapse="false" }
+
+# (Dentro de la rama de asistencia, sistemas y helpdesk)
+
+## SPICERS	10/2/03 - 28/2/03
+
+De estuve en SPICERS, mayorista de productos relacionados con la oficina, desarrollé actividades de sistemas, programación de scripts (WSH) y asistencia a usuarios.
+
+## SBS	3/99 - 11/99
+
+Estuve en una empresa de servicios (SBS Software Bussines Solutions) desarrollando actividades como técnico de sistemas y administrador de redes, en la plataforma NT con servidores Netfinity de IBM. Dentro de estas actividades impartía cursos de formación a los empleados de las empresas donde implantábamos nuestras soluciones.
+
+## AHTEC	2/02/98 - 15 /12/98
+Estuve en el servicio post-venta y ofreciendo asistencia técnica telefónica o in situ.
+
+## BULL-UPC	15/5/97 - 2/98
+Estuve como operador de comunicaciones en la red de la UPC y ofreciendo asistencia a los usuarios
+:::
+
