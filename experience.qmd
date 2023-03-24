@@ -1,0 +1,76 @@
+---
+title: "Experience"
+---
+
+
+[Instructions docker quarto](https://www.r-bloggers.com/2022/07/how-to-set-up-quarto-with-docker-part-1-static-content/){.external} 
+
+
+:::{.callout-note  collapse="false" }
+
+## Spin	10/2018 - 04/2022
+
+- Developing software on industrial sector, mainly carbon and pharma.
+- Legacy and new software.
+
+- Managing all the cycle of development.
+
+- Collaboration with team of engineers.
+- Customer interaction skills.
+- Deal with requerimients and needs of the costumer and project management.
+
+- .Net Framework and SQL server. others languages: c++, Android, Java.
+:::
+
+
+
+:::{.callout-note  collapse="false" }
+
+## Altran	03/2017- 10/2018
+
+- Soporte, explotación y mantenimientos, en sector bancario.
+- SEPA, Bolsa, CRM, operativa bancaria diaria.
+- Uso de software data mart.
+- Comunicaciones con el BdE: CIRBE, SEPBLAC,...
+- Entorno host, web y SAP.
+- Tecnologias:  .Net, C#, asp, ASP.net, Oracle, Sql Server, T-SQL
+
+:::
+
+:::{.callout-note  collapse="false" }
+
+## Semi telecontrol	02/2016-02/2017
+
+- Desarrollo de evolutivos, mantenimientos, cambio de arquitectura, reingeniería, migraciones, ... de diversas aplicaciones de telecontrol dentro del sector eléctrico, en especial scada.
+- Aplicaciones en tiempo real. Uso de librerías gráficas, en especial gdi/gdi+
+
+- Lenguajes: VB, Visual C++.
+
+:::
+
+:::{.callout-note  collapse="false" }
+
+
+### ESMA-DATA	05/2015-12/2015
+
+Gestión, soporte y desarrollo de una plataforma de integración de comercio electrónico.
+-Desarrollo de herramientas internas para la gestión del soporte.
+-Mantenimiento y evolutivos del software de la plataforma, compuesta de : Aplicación web, aplicación servicio de windows, webservices y servidor Biztalk.
+-Soporte de incidencias Nivel2.
+En inglés, por escrito, al dar soporte a multinacionales con IT en otros paises.
+-Instalación y configuración.
+-Consultoría sobre la integración:
+ERP cliente - Platforma de integración - ERP destino.
+Formatos de intercambio: EDIFACT,IDOC, XML,PLANO,...
+-Capacidades comunicativas: clientes y proveedores externos.
+Personas a cargo: 2.
+Una persona totalmente a cargo dándole las instrucciones concretas de trabajo y otra persona dándole orientación y soporte cuando fuera necesario.
+Tecnologías : C#, SQL Server, .Net . Aplicaciones web, escritorio, consola y webservices.
+Metodologías: Patrones de diseño, OOP.
+Unit Test, SourceSafe.
+
+:::
+
+:::{.callout-note  collapse="false" }
+
+:::
