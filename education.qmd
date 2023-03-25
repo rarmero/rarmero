@@ -15,6 +15,10 @@ format: html
 
 ## CIFO La Violeta - Barcelona
 
+- App web. Java, SpringBoot, React. -()
+- Devops.
+- Scrum.
+
 ## Software Engineering (2002)
 
 1. Microservices with .Net an Asp.Net Core.

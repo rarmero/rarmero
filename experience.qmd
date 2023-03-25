@@ -2,12 +2,12 @@
 title: "Experience"
 ---
 
+## Software Developer - Spin - (10/2018 - 04/2022)
 
 :::{.callout-note  collapse="false" }
 
-# Spin	10/2018 - 04/2022
+# Developing software on industrial sector, mainly carbon and pharma
 
-- Developing software on industrial sector, mainly carbon and pharma.
 - Legacy and new software.
 
 - Managing all the cycle of development.
@@ -17,87 +17,105 @@ title: "Experience"
 - Deal with requerimients and needs of the costumer and project management.
 
 - .Net Framework and SQL server. others languages: c++, Android, Java.
+
 :::
 
-
+## Consultor - Altran (03/2017- 10/2018)
 
 :::{.callout-note  collapse="false" }
 
-# Altran	03/2017- 10/2018
+## Support, operation and maintenance on banking sector.
 
-- Soporte, explotación y mantenimientos, en sector bancario.
 - SEPA, Bolsa, CRM, operativa bancaria diaria.
-- Uso de software data mart.
-- Comunicaciones con el BdE: CIRBE, SEPBLAC,...
-- Entorno host, web y SAP.
-- Tecnologias:  .Net, C#, asp, ASP.net, Oracle, Sql Server, T-SQL
+- Use data mart software.
+- Integrations with BdE: CIRBE, SEPBLAC,...
+- Enviroment host, web y SAP.
+- Tecnologies:  .Net, C#, asp, ASP.net, Oracle, Sql Server, T-SQL
 
 :::
 
+## Sotware Developer - Semi telecontrol (02/2016-02/2017)
+
 :::{.callout-note  collapse="false" }
 
-# Semi telecontrol	02/2016-02/2017
+# Software developer SCADA.
 
-- Desarrollo de evolutivos, mantenimientos, cambio de arquitectura, reingeniería, migraciones, ... de diversas aplicaciones de telecontrol dentro del sector eléctrico, en especial scada.
-- Aplicaciones en tiempo real. Uso de librerías gráficas, en especial gdi/gdi+
+- Development of evolutionary, maintenance, architecture changes, reengineering, migrations,... of various remote control applications within the electrical sector, especially scada.
+- Real time software. Graphic libraries: gdi/gdi+
 
-- Lenguajes: VB, Visual C++.
+- Languages: VB, Visual C++.
 
 :::
 
+## Operations - ESMA-DATA (05/2015-12/2015)
+
 :::{.callout-note  collapse="false" }
 
+# Management, support, integration and development on electronic comerce platform.
 
-# ESMA-DATA	05/2015-12/2015
-
-Gestión, soporte y desarrollo de una plataforma de integración de comercio electrónico.
-
-- Desarrollo de herramientas internas para la gestión del soporte.
-- Mantenimiento y evolutivos del software de la plataforma, compuesta de : 
-    - Aplicación web
-    - aplicación servicio de windows
+- Development of internal tools to manage support costumers tasks.
+- Platform compound of : 
+    - web.
+    - windows service.
     - webservices
-    - servidor Biztalk.
+    - Biztalk server.
+- Support issues Level2. European customers.
+- Installation and configuration.
+- Consultant about integration:
 
-- Soporte de incidencias Nivel2.
-En inglés, por escrito, al dar soporte a multinacionales con IT en otros paises.
+```{mermaid}
+flowchart LR
+A[ERP client source] --> B[Biztalk]
+B --> C[ERP client destine ]
 
-- Instalación y configuración.
-- Consultoría sobre la integración:
-ERP cliente - Platforma de integración - ERP destino.
-Formatos de intercambio: EDIFACT,IDOC, XML,PLANO,...
-- Capacidades comunicativas: clientes y proveedores externos.
+```
 
-Personas a cargo: 2.
-Una persona totalmente a cargo dándole las instrucciones concretas de trabajo y otra persona dándole orientación y soporte cuando fuera necesario.
+Files exchange formats: EDIFACT,IDOC, XML,PLANO,...
 
-Tecnologías : C#, SQL Server, .Net . Aplicaciones web, escritorio, consola y webservices.
-Metodologías: Patrones de diseño, OOP.
-Unit Test, SourceSafe.
+- comunicative skills with customers.
+
+- People management:
+One person fully in charge, giving specific work instructions and another person giving guidance and support when necessary.
+
+- Tecnologies : C#, SQL Server, .Net . web, desk and console app with webservices.
+- Metodologies : Desing patterns, OOP, SOLID, Unit Test, SourceSafe.
+
+:::
+
+## [Freelance (2004-2014)](freelance.qmd)
+
+## Software developer - LinialSoft - (7/7/03 al 7/6/04)
+
+:::{.callout-note  collapse="false" }
+
+# Software developer with Visual C++ MFC
+
+- Furniture and interiorims sector
+- Support customers and learning to explain how works a software design. 
+
+:::
+
+## Software developer -  Gematic S.A. -(9/7/01-15/7/02)
+
+:::{.callout-note  collapse="false" }
+
+Developing software about management, commercial, accounting and industrial software.
+
+:::
+
+
+# Junior developer -  OACE Servicios Informáticos SL. (05- 2001)
+
+:::{.callout-note  collapse="false" }
+
+Changing software to adapt it to euro in Bank, Credito Andorrano
+Locate in Andorra.
 
 :::
 
 :::{.callout-note  collapse="false" }
 
-# LinialSoft	7/7/03 al 7/6/04
-Programando en Visual C++ con MFC para el sector del mueble e interiorismo, unido a un producto comercial que se llama Quickmobel, del cual daba soporte a los usuarios y cursos de formación sobre su funcionamiento. 
-:::
-
-:::{.callout-note  collapse="false" }
-
-# Gematic S.A. 	9/7/01-15/7/02
-Como programador, con PowerBuilder, realizando aplicaciones de gestión comercial, contable e industrial.
-:::
-
-:::{.callout-note  collapse="false" }
-
-# OACE Servicios Informáticos SL.	05- 2001
-Trabajando para un Banco de Andorra, Credito Andorrano, como programador en Natural/Adabas, para la adecuación del euro de sus aplicativos.
-:::
-
-:::{.callout-note  collapse="false" }
-
-# Programador Internet en Bvirtual. 	11/00 - 3/01
+# Web Developer Internet en Bvirtual. (11/00 - 3/01)
 
 - Target1(site que gestione totalmente solo)
 - Fontvella, Lanjarón, 
