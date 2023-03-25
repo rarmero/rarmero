@@ -13,13 +13,15 @@ format: html
   Attendend from 1999 to 2005
 
 
-## CIFO La Violeta - Barcelona
+## CIFO La Violeta - Barcelona (Sept/22 - July/2023)
 
-- App web. Java, SpringBoot, React. -()
-- Devops.
-- Scrum.
+- App web. Java, SpringBoot, React. -(550h)
+- Devops.(100h)
+- Scrum. (200h)
 
-## Software Engineering (2002)
+## Microsoft Learning (Juny-Sept 2022)
+
+### Software Engineering
 
 1. Microservices with .Net an Asp.Net Core.
 2. Web apps and services with Asp.net core, API and .Net.
@@ -31,7 +33,7 @@ format: html
 8. PL-900
 9. Introduction to Asp.net SignalR
 
-## Data science (2022)
+### Data science
 
 - Azure Synapse Analytics
 - DP-203 Ingeniería de datos con Azure
@@ -48,7 +50,7 @@ format: html
 - Inteligencia Emocional y Situacional, 10h
 - Gestión de la resilencia, 8h
 
-### Cursos técnicos
+## Cursos técnicos
 
 - JIRA Admin, 20h
 - Developing Microsoft Azure Solutions (20-532)
@@ -59,11 +61,11 @@ format: html
     - MyOxford English, 40h (B1)
 
 
-### mobile (feb. de 2014 - mar. de 2015)
+## Mobile (feb. de 2014 - mar. de 2015)
 
 - ios, android and windows
 
-### Others
+## Others
 
 - Diciembre del 2002: curso de domótica, de 260 h, en Sauter Ibérica, S. A.
 - CNAP de Cisco.(sistemas operativos de red - routers)

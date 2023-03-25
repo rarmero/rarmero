@@ -104,7 +104,7 @@ Developing software about management, commercial, accounting and industrial soft
 :::
 
 
-# Junior developer -  OACE Servicios Informáticos SL. (05- 2001)
+## Junior developer -  OACE Servicios Informáticos SL. (05- 2001)
 
 :::{.callout-note  collapse="false" }
 
@@ -113,32 +113,33 @@ Locate in Andorra.
 
 :::
 
+## Web Developer - Bvirtual - (11/00 - 3/01)
+
 :::{.callout-note  collapse="false" }
 
-# Web Developer Internet en Bvirtual. (11/00 - 3/01)
+# Projects:
 
 - Target1(site que gestione totalmente solo)
 - Fontvella, Lanjarón, 
 - Vet24(tienda-online), Kutxa(hipoteca online)
 
-Tecnología: asp / sql server.
+Tecnologie: asp / sql server.
 :::
 
-:::{.callout-note  collapse="false" }
+## Software AG como programador junior.	1/00 - 9/00
 
-# Software AG como programador junior.	1/00 - 9/00
+:::{.callout-note  collapse="false" }
 
  Realicé una migración de los aplicativos de Comercial Union de plataforma Host a Unix; he colaborado en la adecuación del año 2000 de los aplicativos de la universidad Rovira Virgili y colaboré, por último, en la adecuación del euro de un aplicativo del Gobierno de Cantabria.
  Además estuve programando con Bolero/Tamino, realizando servlets en dicho lenguaje e incluso algo con java.
 
 :::
 
-
-:::{.callout-note  collapse="false" }
-
-# (Dentro de la rama de asistencia, sistemas y helpdesk)
+# (Support, helpdesk and system)
 
 ## SPICERS	10/2/03 - 28/2/03
+
+:::{.callout-note  collapse="false" }
 
 De estuve en SPICERS, mayorista de productos relacionados con la oficina, desarrollé actividades de sistemas, programación de scripts (WSH) y asistencia a usuarios.
 
