@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 https://es.linkedin.com/in/rafaelcarrion
+https://rarmero.github.io/resume/
